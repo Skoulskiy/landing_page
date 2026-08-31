@@ -1,0 +1,2 @@
+var t,e,l;t=document.querySelector(".slider"),e=document.querySelectorAll(".slider__item"),l=document.querySelectorAll(".pagination__dot"),t.addEventListener("scroll",function(){if(!(e.length<2)){var n=t.scrollWidth/e.length,o=Math.max(0,Math.min(Math.round(t.scrollLeft/n),l.length-1));l.forEach(function(t,e){t.classList.toggle("pagination__dot--active",e===o)})}});
+//# sourceMappingURL=index.a30b8d44.js.map
