@@ -75,4 +75,4 @@ Follow these steps to run the project locally on your machine:
 ## 👤 Author & Contact
 
 * **GitHub**: [@Skoulskiy](https://github.com/Skoulskiy)
-* **LinkedIn**: [@Ilya-Yaskevych]([https://linkedin.com/in/](https://www.linkedin.com/in/ilya-yaskevych-2819b6432/))
+* **LinkedIn**: [@Ilya-Yaskevych](https://www.linkedin.com/in/ilya-yaskevych-2819b6432/)
